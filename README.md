@@ -11,5 +11,6 @@ This small project demonstrates how to dynamically create a new column in a Pand
 ## ▶️ How to run
 
 ```bash
-python example.py
+python solution.py
 python test_virtualcolumn.py
+python result.py
