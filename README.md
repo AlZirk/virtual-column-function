@@ -6,7 +6,7 @@ This small project demonstrates how to dynamically create a new column in a Pand
 
 - `solution.py` – contains the function `add_virtual_column(df, formula, column_name)`
 - `test_virtualcolumn.py` – unit tests for verifying the function
-- `example.py` – shows how the function works with a simple example
+- `result.py` – shows how the function works with a simple example
 
 ## ▶️ How to run
 
