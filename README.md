@@ -10,6 +10,11 @@ This small project demonstrates how to dynamically create a new column in a Pand
 
 ## ▶️ How to run
 
+Make sure you have `pandas` installed:
+
+```bash
+pip install pandas
+
 ```bash
 python solution.py
 python test_virtualcolumn.py
